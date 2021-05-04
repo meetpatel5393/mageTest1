@@ -1,0 +1,17 @@
+patitent Data:
+
+name , age, address, mobile number
+
+
+p1 : 
+
+// diagnosis (input box)
+BP (input boox),
+lab investigation(input box),
+deciease (select menu), 
+treatment (text area)(select menu and also input box(print accoring to selection of)),
+extra detail (input box).
+charge(input box)
+
+
+8460024001
